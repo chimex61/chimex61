@@ -1,7 +1,7 @@
 Hi there, Chimex61 ~
 Website www.straydos.com
 
-I'm into Security Research.
+'\n I'm into Security Research.
 🔭 I’m working on 👨‍🏭 Automation & 👷 DevOps!
 🌱 I’m learning low level 🧰 stuff ... 👨‍💻.
 👯 I’m looking to collaborate 🤝 on other security researchers research and build on them.

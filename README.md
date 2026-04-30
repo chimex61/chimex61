@@ -7,7 +7,7 @@ I'm into Security Research.
 
 🌱 I’m learning low level 🧰 stuff ... 👨‍💻.
 
-👯 I’m looking to collaborate 🤝 on other security researchers research and build on them.
+👯 I’m looking to collaborate 🤝 with other security researchers and build on their research.
 
 👋 I try to share what I have learnt or picked up along the way.
 
